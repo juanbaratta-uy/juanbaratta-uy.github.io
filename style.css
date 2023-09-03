@@ -1,0 +1,55 @@
+.container{
+    margin: 0 5% 0 5%;
+    color:#a4a3a4;
+    font-size:18px;
+}
+
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+
+}
+
+.titulos{
+    color:#4d4e50;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.links__pagina{
+    text-decoration: none;
+    color:#a4a3a4;
+    transition: all 0.1s;
+}
+
+.links__pagina:hover{
+    color:#4d4e50;
+}
+
+.titulo__tabla{
+    color:#4d4e50;
+}
+
+.links__externos{
+    text-decoration: none;
+    color:#a4a3a4;
+    transition: all 0.1s;
+}
+
+#instagram:hover{
+    color:#cf2b62;
+}
+
+#github:hover{
+    color:#6639ba;
+}
+
+#linkedin:hover{
+    color:#1469c7;
+}
+
+td{
+    text-align: center;
+}
